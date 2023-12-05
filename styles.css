@@ -1,0 +1,44 @@
+/* Style your resume here */
+/* For basic layout and styling */
+
+/* Example Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .profile-pic img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  
+  .contact-info {
+    text-align: right;
+  }
+  
+  section {
+    background-color: white;
+    padding: 20px;
+    margin: 20px 0;
+  }
+  
+  /* Add more styles as needed */
+  
+  /* For dynamic chart */
+  canvas {
+    display: block;
+    margin: 0 auto;
+  }
+  
